@@ -1,0 +1,9 @@
+uvicorn~=0.40.0
+websockets~=15.0.1
+falcon~=4.2.0
+PyJWT~=2.11.0
+uvicorn~=0.40.0
+typing-extensions~=4.15.0
+tortoise-orm~=0.25.3
+anyio~=4.12.0
+PySocks~=1.7.1
